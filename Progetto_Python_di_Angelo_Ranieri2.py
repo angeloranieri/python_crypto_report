@@ -14,7 +14,7 @@ class Bot:  # classe Bot a cui vengono assegnati i valori associati alle istanze
         }
         self.headers = {
             'Accepts': 'application/json',
-            'X-CMC_PRO_API_KEY': 'b9930396-e802-4aa5-89da-8243ab238e56',
+            'X-CMC_PRO_API_KEY': '***YOUR KEY***',
         }
 
     def currenciesData(self):  # funzione per ottenere i dati aggiornati sulle criptovalute
